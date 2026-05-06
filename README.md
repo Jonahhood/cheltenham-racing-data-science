@@ -5,7 +5,7 @@ This project combines Power Query ETL, Excel feature engineering, Python validat
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project investigates the research question:
 
@@ -23,7 +23,7 @@ The full pipeline is designed to be reproducible, auditable, and accessible to b
 
 ---
 
-## 🧱 Repository Structure
+##  Repository Structure
 
 
 ---
@@ -40,7 +40,7 @@ The full pipeline is designed to be reproducible, auditable, and accessible to b
 
 ---
 
-## 📊 Data Engineering
+##  Data Engineering
 
 The ETL pipeline includes:
 
@@ -61,7 +61,7 @@ All transformations are stored as M‑scripts for full reproducibility.
 
 ---
 
-## 🤖 Predictive Modelling
+##  Predictive Modelling
 
 A binary logistic regression model (win = 1, non‑win = 0) was trained using seven engineered features.
 
@@ -76,7 +76,7 @@ Python validation (scikit‑learn) reproduced coefficients within ±2%, confirmi
 
 ---
 
-## 📈 Dashboards
+##  Dashboards
 
 The Power BI report contains three pages:
 
@@ -88,7 +88,7 @@ Screenshots are included in `/images`.
 
 ---
 
-## ⚖️ Ethical Considerations
+##  Ethical Considerations
 
 - All data is publicly available and anonymised at the horse level  
 - No personal data is processed (GDPR‑safe)  
@@ -97,7 +97,7 @@ Screenshots are included in `/images`.
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 - Add live ingestion from Racing Post API  
 - Expand dataset to include Irish trials and prep races  
@@ -106,7 +106,7 @@ Screenshots are included in `/images`.
 
 ---
 
-## 📚 References
+##  References
 
 - O'Neil, C. et al. (2022). *Bias in sports analytics: a systematic review.*  
 - Wilkinson, M.D. et al. (2016). *FAIR principles for scientific data management.*  
