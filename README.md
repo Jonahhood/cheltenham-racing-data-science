@@ -28,7 +28,7 @@ The full pipeline is designed to be reproducible, auditable, and accessible to b
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
